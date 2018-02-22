@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 0
+date: 2017-03-13
+img: indensales.gif
+alt: image-alt
+project-date: Marzo 2017
+client: Stark Computation
+category: Android Development
+description: A project for sales
+
+---
