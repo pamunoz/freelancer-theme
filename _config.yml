@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Pablo F. Muñoz
   location: Location
   social: Around the Web
   credits: Credits
@@ -46,14 +46,15 @@ social:
   - title: stack-overflow
     url: https://stackoverflow.com/users/5672995/pamunoz
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://bitbucket.org/pa_munoz
   - title: github
     url: https://github.com/pamunoz
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Block 906, Dep.#103
+  - line: Block 906, Dep.#103
+  - line: Melipilla, Chile
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
